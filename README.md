@@ -13,7 +13,6 @@
 
 <h3 align="center">Tela para desktop</h3>
 <h5 align="center">Tela inicial</h5>
-
 <div align="center">
   <img src="https://github.com/DeangellesES/escola_de_musica-HTML-CSS/blob/main/tela_desktop.png" width="800">
 </div>
