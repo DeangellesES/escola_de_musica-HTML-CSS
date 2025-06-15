@@ -1,4 +1,4 @@
-# <h1 align="center">Site de uma escola musical, desenvolvido para treinar e servir de exemplo</h1>
+<!-- # <h1 align="center">Site de uma escola musical, desenvolvido para treinar e servir de exemplo</h1>
 
 <h3 align="start">link do site</h3>
 
@@ -25,4 +25,24 @@
 <h3 align="center">Responsivo para mobile</h3>
 <div align="center">
   <img src="https://github.com/DeangellesES/escola_de_musica-HTML-CSS/blob/main/tela_mobile.png" width="400">
-</div>
+</div> -->
+
+<h1>Projeto: Site de Escola de Musica</h1>
+
+<h2>📌 Sobre o Projeto</h2>
+<p>Site Fron-End ficticio de uma escola de música, site desenvolvido com o intuito de praticar.</p>
+
+<h3>💻<a href="https://deangelleses.github.io/escola_de_musica-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+
+<h2>🚀 Tecnologias Utilizadas</h2>
+<ul>
+  <li><b>HTML5</b></li>
+  <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
+</ul>
+
+<h2>⚙️ Funcionalidades</h2>
+<ul>
+  <li>Mostrar tipos de cursos</li>
+  <li>Mostrar instrumentos a se aprender</li>
+  <li>Mostrar contato</li>
+</ul>
