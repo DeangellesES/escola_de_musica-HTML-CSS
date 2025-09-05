@@ -50,15 +50,11 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>reset css utlizado</li>
+  <li>fonte utilizada do Google Fonts</li>
   <li>HTML semântico e bem estruturado</li>
-  <li>JavaScript dentro do <scrpit> no arquivo HTML</li>
-  <li>manipulação de DOM com JavaScript</li>
-  <li>Paradigma de programação Estruturado</li>
-  <li>evento de click</li>
-  <li>.classList.toggle("")</li>
-  <li>Flex-box CSS</li>
-  <li>background-image: radial-gradient(#fff, #c7c7c7);</li>
-  <li>flex-basis: 50%;</li>
-  <li>responsivo para todas as telas</li>
+  <li>tag article utilizada</li>
+  <li>:root para criação de variáveis CSS</li>
+  <li>pseudo elemento ::after </li>
+  <li>Flex Box CSS</li>
+  <li>Totalmente responsivo</li>
 </ul>
