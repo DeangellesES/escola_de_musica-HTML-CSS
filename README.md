@@ -40,9 +40,25 @@
   <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Mostrar tipos de cursos</li>
   <li>Mostrar instrumentos a se aprender</li>
   <li>Mostrar contato</li>
+  <li>Divulgar Escola</li>
+</ul>
+
+<h2>⚙️ Detalhes Técnicos</h2>
+<ul>
+  <li>reset css utlizado</li>
+  <li>HTML semântico e bem estruturado</li>
+  <li>JavaScript dentro do <scrpit> no arquivo HTML</li>
+  <li>manipulação de DOM com JavaScript</li>
+  <li>Paradigma de programação Estruturado</li>
+  <li>evento de click</li>
+  <li>.classList.toggle("")</li>
+  <li>Flex-box CSS</li>
+  <li>background-image: radial-gradient(#fff, #c7c7c7);</li>
+  <li>flex-basis: 50%;</li>
+  <li>responsivo para todas as telas</li>
 </ul>
